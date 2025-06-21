@@ -4,7 +4,7 @@
   <b>Frontend-focused Full Stack Developer</b> building elegant, scalable and dynamic web apps.
   <br><br>
   <a href="https://mi-portfolioweb.vercel.app" target="_blank">🌐 Portfolio</a> |
-  <a href="mailto:bryancarrion2104@email.com">✉️ Email</a> |
+  <a href="mailto:bryancarrion2104@gmail.com">✉️ Email</a> |
   <a href="https://www.linkedin.com/in/bryan20">🔗 LinkedIn</a>
 </p>
 
