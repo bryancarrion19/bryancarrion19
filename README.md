@@ -10,10 +10,17 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me / Sobre mí
 
-- 🎓 Full Stack developer
-- 🧠 Passionate about clean UI/UX, performance, and reusability
+- 👨‍💻 **Full Stack developer** with a true passion for **frontend** and **web design**  
+- 🎨 I enjoy crafting clean, intuitive, and stylish interfaces, paying attention to every detail to deliver delightful experiences  
+- 💡 Motivated to turn ideas into real, useful, and beautiful products, always with clean code, collaboration, and a strong desire to learn every day  
+
+---
+
+- 👨‍💻 **Desarrollador full stack** con verdadera pasión por el **frontend** y el **diseño web**  
+- 🎨 Disfruto creando interfaces limpias, intuitivas y con estilo, cuidando cada detalle para ofrecer experiencias agradables  
+- 💡 Me motiva transformar ideas en productos reales, útiles y bonitos, siempre con código limpio, colaboración y ganas de aprender cada día  
 
 ---
 
