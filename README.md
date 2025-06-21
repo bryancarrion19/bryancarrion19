@@ -1,29 +1,26 @@
-<h1 align="center">✨ Pol - Full Stack Developer ✨</h1>
+<h1 align="center">✨ Bryan Carrión - Full Stack Developer ✨</h1>
 
 <p align="center">
   <b>Frontend-focused Full Stack Developer</b> building elegant, scalable and dynamic web apps.
   <br><br>
-  <a href="https://poldev.vercel.app" target="_blank">🌐 Portfolio</a> |
-  <a href="mailto:pol.dev@email.com">✉️ Email</a> |
-  <a href="https://www.linkedin.com/in/tu-usuario">🔗 LinkedIn</a>
+  <a href="https://mi-portfolioweb.vercel.app" target="_blank">🌐 Portfolio</a> |
+  <a href="mailto:bryancarrion2104@email.com">✉️ Email</a> |
+  <a href="https://www.linkedin.com/in/bryan20">🔗 LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-year developer building a reservation system for a hair salon
-- 🛠️ Working with **Angular**, **Spring Boot**, **Tailwind**, **MySQL**, **Docker**
+- 🎓 Full Stack developer
 - 🧠 Passionate about clean UI/UX, performance, and reusability
-- 🧪 Applying AI in 99% of my personal projects
-- 🌍 Currently developing a multi-business ERP system for driving schools & SMEs
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,vue,tailwind,ts,js,php,java,laravel,mysql,docker,spring" />
+  <img src="https://skillicons.dev/icons?i=angular,react,tailwind,ts,js,php,java,laravel,mysql,docker,spring,html,css,bootstrap,sql,oracle,figma" />
 </p>
 
 ---
