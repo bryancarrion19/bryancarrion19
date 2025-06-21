@@ -34,7 +34,7 @@
 
 ## 📌 Featured Projects
 
-### 🚗 Car Rental Web App — *Proyecto personal*  
+### 🚗 Car Rental Web App — *Personal Project*  
 > Plataforma web para alquiler de coches con autenticación, gestión y diseño moderno
 
 - `Frontend:` React + Tailwind  
@@ -48,7 +48,7 @@
 
 - `Stack:` Laravel + MySQL  
 - `Role:` Backend and deployment contributor  
-- [🔗 Ver repositorio)](https://github.com/bryancarrion19/Neowear)
+- [🔗 Ver repositorio](https://github.com/bryancarrion19/Neowear)
 
 ---
 
@@ -60,9 +60,10 @@
 
 ---
 
-## 🤖 Let's build the future together
+## 🤖 Let's build the future together / Construyamos el futuro juntos
 
-I’m always open to **freelance opportunities**, **collaborations**, or **cool side projects**. Feel free to connect!
+I’m always open to **freelance opportunities**, **collaborations**, or **cool side projects**. Feel free to connect!  
+Siempre estoy abierto a **proyectos freelance**, **colaboraciones** o **ideas interesantes**. ¡No dudes en contactarme!
 
 ---
 
