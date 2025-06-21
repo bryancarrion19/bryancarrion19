@@ -44,7 +44,7 @@
 ---
 
 ### 🛍️ E-commerce - Neowear  
-> Fashion e-commerce platform developed collaboratively
+> Fashion e-commerce platform
 
 - `Stack:` Laravel + MySQL  
 - `Role:` Backend and deployment contributor  
