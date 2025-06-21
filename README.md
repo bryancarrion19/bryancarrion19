@@ -34,20 +34,20 @@
 
 ## 📌 Featured Projects
 
-### 💇‍♂️ Reservation System — *Hair Salon TFG*
-> Full-featured booking platform with filters, authentication, payments and admin dashboard
+### 🚗 Car Rental Web App — *Proyecto personal*  
+> Plataforma web para alquiler de coches con autenticación, gestión y diseño moderno
 
-- `Frontend:` Angular + Tailwind
-- `Backend:` Spring Boot + MySQL + Docker
-- [🔗 View repo](https://github.com/miusuario/reservas)
+- `Frontend:` React + Tailwind  
+- `Backend:` Node.js + Express + Firebase  
+- [🔗 Ver repositorio](https://github.com/miusuario/car-rental)
 
 ---
 
-### 🛍️ E-commerce - Neowear
+### 🛍️ E-commerce - Neowear  
 > Fashion e-commerce platform developed collaboratively
 
-- `Stack:` Laravel + MySQL
-- `Role:` Backend and deployment contributor
+- `Stack:` Laravel + MySQL  
+- `Role:` Backend and deployment contributor  
 - [🔗 GitHub repo (colaborativo)](https://github.com/org/neowear)
 
 ---
