@@ -39,7 +39,7 @@
 
 - `Frontend:` React + Tailwind  
 - `Backend:` Node.js + Express + Firebase  
-- [🔗 Ver repositorio](https://github.com/miusuario/car-rental)
+- [🔗 Ver repositorio](https://github.com/Dasa-Alzate/alquiler_coches)
 
 ---
 
@@ -48,7 +48,7 @@
 
 - `Stack:` Laravel + MySQL  
 - `Role:` Backend and deployment contributor  
-- [🔗 GitHub repo (colaborativo)](https://github.com/org/neowear)
+- [🔗 GitHub repo (colaborativo)](https://github.com/bryancarrion19/Neowear)
 
 ---
 
