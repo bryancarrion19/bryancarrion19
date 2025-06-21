@@ -48,14 +48,14 @@
 
 - `Stack:` Laravel + MySQL  
 - `Role:` Backend and deployment contributor  
-- [🔗 GitHub repo (colaborativo)](https://github.com/bryancarrion19/Neowear)
+- [🔗 Ver repositorio)](https://github.com/bryancarrion19/Neowear)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight&hide_title=true&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bryancarrion19&show_icons=true&theme=tokyonight&hide_title=true&hide=issues" />
 </p>
 
 ---
