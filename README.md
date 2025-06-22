@@ -46,7 +46,7 @@
 ### 🛍️ E-commerce - Neowear  
 > Fashion e-commerce platform
 
-- `Stack:` Laravel + MySQL  
+- `Stack:` Laravel + MySQL + TailwindCSS
 - `Role:` Backend and deployment contributor  
 - [🔗 Ver repositorio](https://github.com/bryancarrion19/Neowear)
 
