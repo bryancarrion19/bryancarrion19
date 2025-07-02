@@ -37,7 +37,7 @@
 ### 🚗 Car Rental Web App — *Personal Project*  
 > Plataforma web para alquiler de coches con autenticación, gestión y diseño moderno
 
-- `Frontend:` React + Tailwind  
+- `Frontend:` React + TailwindCSS
 - `Backend:` Node.js + Express + Firebase  
 - [🔗 Ver repositorio](https://github.com/Dasa-Alzate/alquiler_coches)
 
@@ -46,8 +46,8 @@
 ### 🛍️ E-commerce - Neowear  
 > Fashion e-commerce platform
 
-- `Stack:` Laravel + HTML + JavaScript + MySQL + TailwindCSS
-- `Role:` Backend and deployment contributor  
+- `Frontend:` HTML + JavaScript + TailwindCSS
+- `Backend:` Laravel + MySQL  
 - [🔗 Ver repositorio](https://github.com/bryancarrion19/Neowear-e-commerce)
 
 ---
@@ -55,8 +55,8 @@
 ### 🛍️ Bar Central - Pedidos  
 > Aplicación web para la automatización de pedidos y productos de un bar.
 
-- `Stack:` PHP + MySQL + HTML + JavaScript + TailwindCSS
-- `Role:` Backend and deployment contributor  
+- `Frontend:` HTML + JavaScript + TailwindCSS
+- `Backend:` PHP + MySQL  
 - [🔗 Ver repositorio](https://github.com/bryancarrion19/CentralPedidos)
 
 ---
