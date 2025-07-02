@@ -59,6 +59,8 @@
 - `Role:` Backend and deployment contributor  
 - [🔗 Ver repositorio](https://github.com/bryancarrion19/CentralPedidos)
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
