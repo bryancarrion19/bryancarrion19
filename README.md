@@ -57,7 +57,7 @@
 
 - `Stack:` PHP + MySQL + HTML + JavaScript + TailwindCSS
 - `Role:` Backend and deployment contributor  
-- [🔗 Ver repositorio](https://github.com/bryancarrion19/Neowear-e-commerce)
+- [🔗 Ver repositorio](https://github.com/bryancarrion19/CentralPedidos)
 
 ## 📈 GitHub Stats
 
