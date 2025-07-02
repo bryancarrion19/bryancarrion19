@@ -46,11 +46,18 @@
 ### 🛍️ E-commerce - Neowear  
 > Fashion e-commerce platform
 
-- `Stack:` Laravel + MySQL + TailwindCSS
+- `Stack:` Laravel + HTML + JavaScript + MySQL + TailwindCSS
 - `Role:` Backend and deployment contributor  
-- [🔗 Ver repositorio](https://github.com/bryancarrion19/Neowear)
+- [🔗 Ver repositorio](https://github.com/bryancarrion19/Neowear-e-commerce)
 
 ---
+
+### 🛍️ Bar Central - Pedidos  
+> Aplicación web para la automatización de pedidos y productos de un bar.
+
+- `Stack:` PHP + MySQL + HTML + JavaScript + TailwindCSS
+- `Role:` Backend and deployment contributor  
+- [🔗 Ver repositorio](https://github.com/bryancarrion19/Neowear-e-commerce)
 
 ## 📈 GitHub Stats
 
